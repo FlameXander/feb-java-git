@@ -15,4 +15,12 @@ public class App {
         System.out.println("=====");
         System.out.println(2);
     }
+
+    public static void executePayment() {
+        // 1
+        // 2
+        // 3
+        // 4
+        // 5
+    }
 }
