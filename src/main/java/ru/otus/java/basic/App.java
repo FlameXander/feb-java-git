@@ -20,7 +20,9 @@ public class App {
         // 1
         // 2
         // 3 (изменение)
-        // 4
         // 5
+        System.out.println("001");
+        System.out.println(2);
+        System.out.println(3);
     }
 }
