@@ -7,10 +7,12 @@ public class App {
     }
 
     public static void drawSquare() {
+        System.out.println(1);
         System.out.println("=====");
         System.out.println("=101=");
         System.out.println("= = =");
         System.out.println("=101=");
         System.out.println("=====");
+        System.out.println(2);
     }
 }
